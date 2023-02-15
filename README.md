@@ -1,0 +1,1 @@
+# Leitura_de_Pdf_Via_Python
